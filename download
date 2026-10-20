@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+config.local.json
+runs/
+models/
+third_party/
+*.gguf
+*.onnx
+*.onnx.json
+*.bin
+thermal_metrics.csv
